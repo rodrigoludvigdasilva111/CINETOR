@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Record_News_2022_%28stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20230507031920" group-title="BRASIL|NOTICIA",RECORD NEWS HD
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1104301203.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PORTUGAL|NOTICIA",
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL|NOTICIA",EURONEWS HD(PT)
 https://euronews-euronews-portugues-1-us.plex.wurl.tv/06c92ea44b917abfb032df4eebd72566.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/1200px-Press_Tv_logo.svg.png" group-title="IRA|NOTICIA",PRESS TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
