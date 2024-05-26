@@ -6,5 +6,5 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1523599544.
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="CANAIS|MUSICA",NOW 80S (UK)
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/R%C3%A1dio_Rock_logo.svg/1200px-R%C3%A1dio_Rock_logo.svg.png" group-title="CANAIS|MUSICA",89 A RADIO ROCK(SP)
-https://live-c.cf.dmcdn.net/sec2(exZKzAAYERGDHX7kZ0FJrGJW9p7F1Wah3UIVI9y9ZfrwwX1XvtrqAgXa_HPRDJ-_c8DjjmZPrR3anQKNVQlb0cU2-DziNr52hjUftzvI7pQ)/dm/3/x7wjrui/s/live-4.m3u8#cell=lcfc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/980px-NOW_70s.png" group-title="CANAIS|MUSICA",NOW 70S (UK)
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
