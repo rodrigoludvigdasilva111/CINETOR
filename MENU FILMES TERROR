@@ -2,9 +2,11 @@
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Record_News_2022_%28stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20230507031920" group-title="BRASIL|NOTICIA",RECORD NEWS HD
 https://5cf4a2c2512a2.streamlock.net/8016/8016/chunklist_w1104301203.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="PORTUGAL|NOTICIA",EURONEWS HD(PT)
+#EXTINF:-1 tvg-logo="" group-title="PORTUGAL|NOTICIA",EURONEWS HD(PT)
 https://euronews-euronews-portugues-1-us.plex.wurl.tv/06c92ea44b917abfb032df4eebd72566.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/1200px-Press_Tv_logo.svg.png" group-title="IRA|NOTICIA",PRESS TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 #EXTINF:-1 tvg-logo="https://julianlennon.com/wp-content/uploads/2014/12/large-square-sky-news-logo.png" group-title="REINO UNIDO|NOTICIA",SKY NEWS HD
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/07_1080-30.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="CATAR|NOTICIA",AL JAZEERA HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
