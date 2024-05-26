@@ -10,5 +10,5 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b944100_slen.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/07_1080-30.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="CATAR|NOTICIA",AL JAZEERA HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2023-03/retro-cartoon-channel.webp" group-title="BRASIL|DESENHOS",RETRO CARTOON
+#EXTINF:-1 tvg-logo="https://img.vidks.net/v2x/l/retro-cartoon.webp?b100" group-title="BRASIL|DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1416245490.m3u8
